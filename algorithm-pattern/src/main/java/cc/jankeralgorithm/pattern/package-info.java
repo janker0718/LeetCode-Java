@@ -1,1 +1,0 @@
-package cc.jankeralgorithm.pattern;
