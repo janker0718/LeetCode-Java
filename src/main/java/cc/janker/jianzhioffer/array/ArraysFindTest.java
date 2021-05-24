@@ -22,6 +22,7 @@ public class ArraysFindTest {
         int [][] array = new int[][]{new int[]{3,4,5},new int[]{7,9,10}};
         boolean b = find(11, array);
         System.out.println(b);
+
     }
 
     public static boolean find(int target,int [][] array){

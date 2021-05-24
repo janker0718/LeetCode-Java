@@ -2,8 +2,8 @@ package cc.janker.algorithm;
 
 public class TwoPower {
     public static void main(String[] args) {
-        twoPower1();
-//        twoPower2();
+//        twoPower1();
+        twoPower2();
     }
 
     private static void twoPower2() {
